@@ -1,4 +1,214 @@
-# timebounded.github.io
-idk basic coding and shi X2
-<p>TESTING AND SHI</p>
-<h1 style="color: red:">Test</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Imus Heritage Park - History</title>
+<style>
+body{font-family:Verdana,Arial,sans-serif;max-width:700px;margin:0 auto;padding:10px;text-align:center}
+table{margin:0 auto;text-align:left}
+img,video{max-width:100%;height:auto}
+</style>
+</head>
+<body>
+
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td align="center"><h1>📜 Imus Heritage Park: History</h1></td>
+  </tr>
+</table>
+
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td align="center"><a href="CODINGISSOFUN.html">🏠 Home</a></td>
+    <td align="center"><a href="part2.html">📜 History</a></td>
+    <td align="center"><a href="pager3.html">🗺️ Sights and Visiting</a></td>
+  </tr>
+</table>
+
+<br>
+
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr><th>🌏 Setting the Stage</th></tr>
+  <tr>
+    <td>
+      <p align="center"><img src="67.jpeg" alt="Philippine flag" width="250"></p>
+      <p>
+        The Philippine Revolution against Spain began in 1896. In 1897 the
+        revolutionary leader Emilio Aguinaldo went into exile in Hong Kong. Then in
+        April 1898 the Spanish-American War broke out, and on May 1, 1898 the
+        American fleet destroyed the Spanish fleet in the Battle of Manila Bay.
+      </p>
+      <p>
+        With Spain weakened, Aguinaldo came back to the Philippines on
+        <b>May 19, 1898</b>, aboard the American ship USS McCulloch. He quickly
+        rebuilt the revolutionary army, and on May 25 he set up his military
+        headquarters at Teatro Caviteño in Cavite. The stage was set for a major
+        battle.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr><th colspan="2">⚔️ The Battle of Alapan at a Glance</th></tr>
+  <tr><td>📅 <b>Date</b></td><td>May 28, 1898</td></tr>
+  <tr><td>📍 <b>Place</b></td><td>Barrio Alapan, Imus, Cavite</td></tr>
+  <tr><td>🇵🇭 <b>Filipino side</b></td><td>Revolutionary army led by Emilio Aguinaldo</td></tr>
+  <tr><td>🇪🇸 <b>Spanish side</b></td><td>A garrison of roughly 270 to 300 troops under General Leopoldo García Peña</td></tr>
+  <tr><td>⏰ <b>Duration</b></td><td>About five hours, from around 10:00 AM to 3:00 PM</td></tr>
+  <tr><td>🏆 <b>Result</b></td><td>Filipino victory; the Spanish troops surrendered</td></tr>
+  <tr><td>🔗 <b>Importance</b></td><td>First major victory of Aguinaldo's renewed campaign, and the first time the national flag was unfurled in victory</td></tr>
+</table>
+
+<br>
+
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr><th colspan="2">🕰️ How the Day Unfolded</th></tr>
+  <tr><td><b>1. Morning</b></td><td>Aguinaldo's forces moved against Spanish positions scattered across Cavite and met the garrison at Alapan.</td></tr>
+  <tr><td><b>2. Fighting</b></td><td>The battle raged for about five hours. The Spanish defenders ran low on ammunition.</td></tr>
+  <tr><td><b>3. Surrender</b></td><td>Overwhelmed by the combined Filipino forces, the Spanish troops gave up.</td></tr>
+  <tr><td><b>4. March to Cavite Puerto</b></td><td>Aguinaldo led about 300 Spanish prisoners, including General García Peña, to Cavite Puerto (now Cavite City).</td></tr>
+  <tr><td><b>5. The flag</b></td><td>There Aguinaldo unfurled the new flag he had ordered made in Hong Kong.</td></tr>
+  <tr><td><b>6. Days after</b></td><td>By May 31, 1898, the rest of Cavite had been freed from Spanish control.</td></tr>
+</table>
+
+<br>
+
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr><th colspan="2">👥 Key Figures</th></tr>
+  <tr><td>🎖️ <b>Emilio Aguinaldo</b></td><td>Overall leader of the revolutionary forces and later the first president of the Philippines.</td></tr>
+  <tr><td>🎖️ <b>Artemio Ricarte</b></td><td>Revolutionary general who fought alongside Aguinaldo's forces.</td></tr>
+  <tr><td>🎖️ <b>Luciano San Miguel</b></td><td>Revolutionary commander in the combined army.</td></tr>
+  <tr><td>🎖️ <b>Mariano Noriel</b></td><td>Revolutionary general from Cavite who took part in the attack.</td></tr>
+  <tr><td>🇪🇸 <b>Leopoldo García Peña</b></td><td>Spanish general commanding about 2,800 men spread across Cavite; captured after the battle.</td></tr>
+</table>
+
+<br>
+
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr><th colspan="2">🚩 The Flag</th></tr>
+  <tr><td>✏️ <b>Designed by</b></td><td>Emilio Aguinaldo, while in exile in Hong Kong</td></tr>
+  <tr><td>🧵 <b>Sewn by</b></td><td>Marcela Agoncillo, her daughter Lorenza Agoncillo, and Delfina Herbosa de Natividad</td></tr>
+  <tr><td>🎨 <b>Colors</b></td><td>Blue, red, and white</td></tr>
+  <tr><td>⭐ <b>Symbols</b></td><td>A white triangle, three stars, and a sun with eight rays. The three stars are often said to stand for Luzon, Visayas, and Mindanao. The eight rays are commonly said to stand for the first eight provinces that rose up against Spain.</td></tr>
+  <tr><td>1️⃣ <b>First unfurled</b></td><td>May 28, 1898, after the Battle of Alapan, at Cavite Puerto</td></tr>
+  <tr><td>2️⃣ <b>Unfurled again</b></td><td>June 12, 1898, at Aguinaldo's home in Kawit, during the proclamation of Philippine independence</td></tr>
+</table>
+
+<br>
+
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr><th>🎌 National Flag Days</th></tr>
+  <tr>
+    <td>
+      <p>
+        The Philippines remembers the flag every year from <b>May 28 to
+        June 12</b>. The period starts on the anniversary of the Battle of Alapan
+        and ends on Independence Day, so it ties together the first raising of the
+        flag and the proclamation of independence two weeks later.
+      </p>
+      <p>
+        The opening ceremonies are held at Imus Heritage Park, and reenactment
+        groups have performed scenes from the revolution on the grounds.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr><th>🪧 From Marker to Heritage Park</th></tr>
+  <tr>
+    <td>
+      <p>
+        The site was first honored with a marker and a monument. In a document
+        written in 1948, Aguinaldo himself described the monument at Alapan: a
+        woman standing for the Filipino people, holding a flag in one hand and a
+        broken chain in the other, standing on three mountains marked with three
+        stars.
+      </p>
+      <p>
+        The site was declared a National Historic Landmark in 1993. Later, the city
+        government built a bigger and more accessible memorial. Its project was
+        approved in March 2009, and the park was inaugurated on May 28, 2014, the
+        anniversary of the battle.
+      </p>
+      <p>
+        Sources differ on the park's size: early accounts of the 2014 park mention
+        about 16,000 square meters, while newer ones list about 5 hectares.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr><th colspan="2">⏳ Full Timeline</th></tr>
+  <tr><th>📅 Date</th><th>📖 Event</th></tr>
+  <tr><td>1795</td><td>🏘️ Imus is founded</td></tr>
+  <tr><td>Sept. 3, 1896</td><td>⚔️ The Battle of Imus, an earlier Katipunan victory</td></tr>
+  <tr><td>May 1, 1898</td><td>🚢 American fleet defeats the Spanish fleet at Manila Bay</td></tr>
+  <tr><td>May 19, 1898</td><td>🚢 Aguinaldo returns from Hong Kong</td></tr>
+  <tr><td>May 28, 1898</td><td>🚩 The Battle of Alapan; the flag is unfurled for the first time</td></tr>
+  <tr><td>May 31, 1898</td><td>🎉 The rest of Cavite is freed</td></tr>
+  <tr><td>June 12, 1898</td><td>🇵🇭 Independence is proclaimed in Kawit and the flag is raised again</td></tr>
+  <tr><td>1977</td><td>🏛️ The seat of Cavite's provincial government is moved to Imus</td></tr>
+  <tr><td>1993</td><td>🏛️ The Alapan site is declared a National Historic Landmark</td></tr>
+  <tr><td>June 30, 2012</td><td>🎉 Imus becomes a city</td></tr>
+  <tr><td>May 28, 2014</td><td>🏞️ Imus Heritage Park is inaugurated</td></tr>
+  <tr><td>2019</td><td>🕊️ A sanctum for Katipunan flags is unveiled at the National Flag Shrine</td></tr>
+  <tr><td>2020</td><td>🗽 The Inang Laya statue is introduced</td></tr>
+  <tr><td>May 28, 2023</td><td>🗽 Inang Laya is formally inaugurated</td></tr>
+</table>
+
+<br>
+
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr><th>🏘️ More Imus History</th></tr>
+  <tr>
+    <td>
+      <p>
+        Imus was once part of Cavite el Viejo (now Kawit), together with Cavite
+        City and Noveleta. It gained its own Recollect parish, which gave the
+        people religious independence from the older Jesuit parish. Later on,
+        Bacoor was separated from Imus in 1906, and Dasmariñas followed in 1917.
+      </p>
+      <p>
+        Besides Alapan, Imus was the site of another famous fight, the Battle of
+        Imus on September 3, 1896. Together these two Katipunan victories are why
+        the city is so closely tied to the Philippine Revolution.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr><th>🎬 Watch</th></tr>
+  <tr>
+    <td align="center">
+      <video controls width="480">
+        <source src="Fr.mp4" type="video/mp4">
+        Your browser does not support video.
+      </video>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td align="center"><a href="CODINGISSOFUN.html">⬅️ Previous page: Home</a></td>
+    <td align="center"><a href="pager3.html">Next page: Sights and Visiting ➡️</a></td>
+  </tr>
+</table>
+
+</body>
+</html>
